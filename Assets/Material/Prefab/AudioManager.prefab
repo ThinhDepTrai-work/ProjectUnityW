@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3546357157082217583
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4996903109703540217}
+  - component: {fileID: 969879354722089632}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4996903109703540217
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3546357157082217583}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1046.9117, y: 549.13947, z: -114.31934}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &969879354722089632
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3546357157082217583}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf29cae7c86f7f144b7aba21be5056bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - Name: HomeTheme
+    Clip: {fileID: 8300000, guid: 237eb753e4b8e914a9abbee228d09215, type: 3}
+    Output: {fileID: 24300002, guid: 89066118a8b481448ad0368c373fc3ba, type: 2}
+    Volume: 1
+    Pitch: 1
+    Loop: 1
+    Source: {fileID: 0}
+  - Name: IntroTheme
+    Clip: {fileID: 8300000, guid: c55c6bc6df1b19a4ab43cb4bba504f5b, type: 3}
+    Output: {fileID: 24300002, guid: 89066118a8b481448ad0368c373fc3ba, type: 2}
+    Volume: 1
+    Pitch: 1
+    Loop: 1
+    Source: {fileID: 0}
+  - Name: HospitalTheme
+    Clip: {fileID: 8300000, guid: f22cdf33c4ddbf645a0ae1d89f1c8ee3, type: 3}
+    Output: {fileID: 24300002, guid: 89066118a8b481448ad0368c373fc3ba, type: 2}
+    Volume: 1
+    Pitch: 1
+    Loop: 1
+    Source: {fileID: 0}
+  - Name: IceCreamTheme
+    Clip: {fileID: 8300000, guid: 4cee4e63fcaaabe42b1b6e3ed274346c, type: 3}
+    Output: {fileID: 24300002, guid: 89066118a8b481448ad0368c373fc3ba, type: 2}
+    Volume: 1
+    Pitch: 1
+    Loop: 1
+    Source: {fileID: 0}
+  - Name: GymTheme
+    Clip: {fileID: 8300000, guid: 4c0970045eba23d40982da56f094b7bc, type: 3}
+    Output: {fileID: 24300002, guid: 89066118a8b481448ad0368c373fc3ba, type: 2}
+    Volume: 1
+    Pitch: 1
+    Loop: 1
+    Source: {fileID: 0}
+  - Name: IceCreamMiniGame
+    Clip: {fileID: 8300000, guid: 41126a454fc397f42bcbce1977a694ee, type: 3}
+    Output: {fileID: 24300002, guid: 89066118a8b481448ad0368c373fc3ba, type: 2}
+    Volume: 1
+    Pitch: 1
+    Loop: 1
+    Source: {fileID: 0}

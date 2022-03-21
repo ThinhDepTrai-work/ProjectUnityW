@@ -1,0 +1,5 @@
+Hi, I'm the manager of this I Scream Store!
+You can play a mini-game to sell ice cream by move behind the ice scream stand.
+A "Play" dialog will appear, you can click "Yes" to start playing mini-game.
+After that, a progress bar will appear. You have to touch the screen when the ice cream icon and the little orange bar overlap each other.
+Are you ready to sell some ice cream?

@@ -1,0 +1,1272 @@
+fileFormatVersion: 2
+guid: 08087c2cc0bb8a34681cbf21236680d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -943588700553797637
+    second: Room_Builder_3d_walls_Pearl_0
+  - first:
+      213: 3043357215592282819
+    second: Room_Builder_3d_walls_Pearl_1
+  - first:
+      213: 2479471299489765510
+    second: Room_Builder_3d_walls_Pearl_2
+  - first:
+      213: 676494693875902755
+    second: Room_Builder_3d_walls_Pearl_3
+  - first:
+      213: -6914832449243361610
+    second: Room_Builder_3d_walls_Pearl_4
+  - first:
+      213: 4024776352115531541
+    second: Room_Builder_3d_walls_Pearl_5
+  - first:
+      213: -6175324731894203524
+    second: Room_Builder_3d_walls_Pearl_6
+  - first:
+      213: 4594910561072117482
+    second: Room_Builder_3d_walls_Pearl_7
+  - first:
+      213: 3816418045442440008
+    second: Room_Builder_3d_walls_Pearl_8
+  - first:
+      213: -5894556237960221274
+    second: Room_Builder_3d_walls_Pearl_9
+  - first:
+      213: 8253321876211111335
+    second: Room_Builder_3d_walls_Pearl_10
+  - first:
+      213: 5327246855920293852
+    second: Room_Builder_3d_walls_Pearl_11
+  - first:
+      213: 1505624722579684316
+    second: Room_Builder_3d_walls_Pearl_12
+  - first:
+      213: -1526729494264260386
+    second: Room_Builder_3d_walls_Pearl_13
+  - first:
+      213: 1400234373608215375
+    second: Room_Builder_3d_walls_Pearl_14
+  - first:
+      213: 746134066658844839
+    second: Room_Builder_3d_walls_Pearl_15
+  - first:
+      213: 6526796650670883192
+    second: Room_Builder_3d_walls_Pearl_16
+  - first:
+      213: 3526768332073910875
+    second: Room_Builder_3d_walls_Pearl_17
+  - first:
+      213: 7044305123867386218
+    second: Room_Builder_3d_walls_Pearl_18
+  - first:
+      213: 7983424402908754328
+    second: Room_Builder_3d_walls_Pearl_19
+  - first:
+      213: 2633109448599882874
+    second: Room_Builder_3d_walls_Pearl_20
+  - first:
+      213: -5690812343873207728
+    second: Room_Builder_3d_walls_Pearl_21
+  - first:
+      213: 542128895754409249
+    second: Room_Builder_3d_walls_Pearl_22
+  - first:
+      213: -4714101151789959479
+    second: Room_Builder_3d_walls_Pearl_23
+  - first:
+      213: 510986347254883916
+    second: Room_Builder_3d_walls_Pearl_24
+  - first:
+      213: 7524924116299871776
+    second: Room_Builder_3d_walls_Pearl_25
+  - first:
+      213: 3386773337339472783
+    second: Room_Builder_3d_walls_Pearl_26
+  - first:
+      213: 8587823000568342080
+    second: Room_Builder_3d_walls_Pearl_27
+  - first:
+      213: 7890348854076100570
+    second: Room_Builder_3d_walls_Pearl_28
+  - first:
+      213: 6155855888692755401
+    second: Room_Builder_3d_walls_Pearl_29
+  - first:
+      213: 2936412605153184371
+    second: Room_Builder_3d_walls_Pearl_30
+  - first:
+      213: -7588360706870848875
+    second: Room_Builder_3d_walls_Pearl_31
+  - first:
+      213: -6602980110519599833
+    second: Room_Builder_3d_walls_Pearl_32
+  - first:
+      213: -2569329673754246667
+    second: Room_Builder_3d_walls_Pearl_33
+  - first:
+      213: 7228005135707396920
+    second: Room_Builder_3d_walls_Pearl_34
+  - first:
+      213: -8595985116692983558
+    second: Room_Builder_3d_walls_Pearl_35
+  - first:
+      213: 8450661518778029366
+    second: Room_Builder_3d_walls_Pearl_36
+  - first:
+      213: -5664975493701207569
+    second: Room_Builder_3d_walls_Pearl_37
+  - first:
+      213: -2837165990010601996
+    second: Room_Builder_3d_walls_Pearl_38
+  - first:
+      213: -6914137322662512703
+    second: Room_Builder_3d_walls_Pearl_39
+  - first:
+      213: 7655629775624546226
+    second: Room_Builder_3d_walls_Pearl_40
+  - first:
+      213: -578481102003511634
+    second: Room_Builder_3d_walls_Pearl_41
+  - first:
+      213: 3836293362666234787
+    second: Room_Builder_3d_walls_Pearl_42
+  - first:
+      213: 7240252258833574980
+    second: Room_Builder_3d_walls_Pearl_43
+  - first:
+      213: 5869913726099804031
+    second: Room_Builder_3d_walls_Pearl_44
+  - first:
+      213: -6085521027424087527
+    second: Room_Builder_3d_walls_Pearl_45
+  - first:
+      213: 8425681277595622789
+    second: Room_Builder_3d_walls_Pearl_46
+  - first:
+      213: 126423254853527426
+    second: Room_Builder_3d_walls_Pearl_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 259
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff1b618313b7e2f0800000000000000
+      internalID: -943588700553797637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 259
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caffff534d2c3a20800000000000000
+      internalID: 3043357215592282819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 259
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6881dd4920ad86220800000000000000
+      internalID: 2479471299489765510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 259
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329e8e00754636900800000000000000
+      internalID: 676494693875902755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 259
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be418516849900a0800000000000000
+      internalID: -6914832449243361610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 259
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f1d30a4c0ead730800000000000000
+      internalID: 4024776352115531541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 259
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bf2c6efd6dc4aa0800000000000000
+      internalID: -6175324731894203524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_7
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 259
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6f4677fc664cf30800000000000000
+      internalID: 4594910561072117482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 211
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bbcf8fdf3a6f430800000000000000
+      internalID: 3816418045442440008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 211
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad61df0554523ea0800000000000000
+      internalID: -5894556237960221274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 211
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a51688b480b98270800000000000000
+      internalID: 8253321876211111335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 211
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd712fd5ace2ee940800000000000000
+      internalID: 5327246855920293852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 211
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb786245bd05e410800000000000000
+      internalID: 1505624722579684316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_13
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 211
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8544a2d97ffcae0800000000000000
+      internalID: -1526729494264260386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_14
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 211
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4395397eb1ae6310800000000000000
+      internalID: 1400234373608215375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_15
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 211
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0a40efafcca5a00800000000000000
+      internalID: 746134066658844839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 163
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871827c29f6d39a50800000000000000
+      internalID: 6526796650670883192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 163
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52cc56cc1991f030800000000000000
+      internalID: 3526768332073910875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_18
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 163
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a616495103662c160800000000000000
+      internalID: 7044305123867386218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_19
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 163
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891bf8a4232dace60800000000000000
+      internalID: 7983424402908754328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 163
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c458ab71faa8420800000000000000
+      internalID: 2633109448599882874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 163
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0528700135c2601b0800000000000000
+      internalID: -5690812343873207728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_22
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 163
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1259aedbb57068700800000000000000
+      internalID: 542128895754409249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_23
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 163
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6bc449af5249eb0800000000000000
+      internalID: -4714101151789959479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 115
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46a3312063671700800000000000000
+      internalID: 510986347254883916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 115
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026f2d17d96ed6860800000000000000
+      internalID: 7524924116299871776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_26
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 115
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b22ea086c300f20800000000000000
+      internalID: 3386773337339472783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 115
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0462ecec4831e2770800000000000000
+      internalID: 8587823000568342080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 115
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfcd195a76208d60800000000000000
+      internalID: 7890348854076100570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_29
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 115
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb370ec05efd6550800000000000000
+      internalID: 6155855888692755401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_30
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 115
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a8224e4bb30c820800000000000000
+      internalID: 2936412605153184371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_31
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 115
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5925e67542ab0b690800000000000000
+      internalID: -7588360706870848875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d7285d2908d54a0800000000000000
+      internalID: -6602980110519599833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_33
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 67
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1020d4648e75cd0800000000000000
+      internalID: -2569329673754246667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_34
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 67
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bd98410680f4460800000000000000
+      internalID: 7228005135707396920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_35
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 67
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af058f0741de4b880800000000000000
+      internalID: -8595985116692983558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_36
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 67
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635d3d7b0e7c64570800000000000000
+      internalID: 8450661518778029366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_37
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 67
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe975a48dc6f161b0800000000000000
+      internalID: -5664975493701207569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_38
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 67
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd3994609c50a8d0800000000000000
+      internalID: -2837165990010601996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_39
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 67
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c73e6adcbc0c00a0800000000000000
+      internalID: -6914137322662512703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7210c38b24e3a60800000000000000
+      internalID: 7655629775624546226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_41
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 19
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaeddcda082d8f7f0800000000000000
+      internalID: -578481102003511634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_42
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 19
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3e8efdc704d3530800000000000000
+      internalID: 3836293362666234787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_43
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 19
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44caef3a11b8a7460800000000000000
+      internalID: 7240252258833574980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_44
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 19
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f4e5a0f6f167150800000000000000
+      internalID: 5869913726099804031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_45
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 19
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91297373ed2eb8ba0800000000000000
+      internalID: -6085521027424087527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_46
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 19
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d1fb51b780ee470800000000000000
+      internalID: 8425681277595622789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_Pearl_47
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 19
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287a4ecc74521c100800000000000000
+      internalID: 126423254853527426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

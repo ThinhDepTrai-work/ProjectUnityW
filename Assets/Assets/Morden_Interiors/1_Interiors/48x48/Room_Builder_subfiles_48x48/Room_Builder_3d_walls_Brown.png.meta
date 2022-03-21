@@ -1,0 +1,1284 @@
+fileFormatVersion: 2
+guid: b2d8c33c594d7b144a289a9bb1f16396
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7287108253530647248
+    second: Room_Builder_3d_walls_48x48 1_0
+  - first:
+      213: -316432179930371714
+    second: Room_Builder_3d_walls_48x48 1_1
+  - first:
+      213: 8760790832244319396
+    second: Room_Builder_3d_walls_48x48 1_2
+  - first:
+      213: -1856475135195678413
+    second: Room_Builder_3d_walls_48x48 1_3
+  - first:
+      213: 4300843025369636407
+    second: Room_Builder_3d_walls_48x48 1_4
+  - first:
+      213: 5100901458769267020
+    second: Room_Builder_3d_walls_48x48 1_5
+  - first:
+      213: 6190050539126173992
+    second: Room_Builder_3d_walls_48x48 1_6
+  - first:
+      213: 7778329453466252500
+    second: Room_Builder_3d_walls_48x48 1_7
+  - first:
+      213: -7018722552859365922
+    second: Room_Builder_3d_walls_48x48 1_8
+  - first:
+      213: 635490698941541795
+    second: Room_Builder_3d_walls_48x48 1_9
+  - first:
+      213: 6432506507883190736
+    second: Room_Builder_3d_walls_48x48 1_10
+  - first:
+      213: -4304198141572411019
+    second: Room_Builder_3d_walls_48x48 1_11
+  - first:
+      213: -5014812235962311945
+    second: Room_Builder_3d_walls_48x48 1_12
+  - first:
+      213: 6720919838694352670
+    second: Room_Builder_3d_walls_48x48 1_13
+  - first:
+      213: -9103780132674756504
+    second: Room_Builder_3d_walls_48x48 1_14
+  - first:
+      213: 495834913963850393
+    second: Room_Builder_3d_walls_48x48 1_15
+  - first:
+      213: -361490106379097299
+    second: Room_Builder_3d_walls_48x48 1_16
+  - first:
+      213: -2980459673938659605
+    second: Room_Builder_3d_walls_48x48 1_17
+  - first:
+      213: -3065956259072789054
+    second: Room_Builder_3d_walls_48x48 1_18
+  - first:
+      213: 1280349109642641904
+    second: Room_Builder_3d_walls_48x48 1_19
+  - first:
+      213: -698105885413592067
+    second: Room_Builder_3d_walls_48x48 1_20
+  - first:
+      213: 1209093600551361253
+    second: Room_Builder_3d_walls_48x48 1_21
+  - first:
+      213: -5570573689346691871
+    second: Room_Builder_3d_walls_48x48 1_22
+  - first:
+      213: 6918016092504666331
+    second: Room_Builder_3d_walls_48x48 1_23
+  - first:
+      213: -5390159641800165841
+    second: Room_Builder_3d_walls_48x48 1_24
+  - first:
+      213: -871286014268861144
+    second: Room_Builder_3d_walls_48x48 1_25
+  - first:
+      213: -6220021779199185095
+    second: Room_Builder_3d_walls_48x48 1_26
+  - first:
+      213: -1323069911930951862
+    second: Room_Builder_3d_walls_48x48 1_27
+  - first:
+      213: 7533720406895594553
+    second: Room_Builder_3d_walls_48x48 1_28
+  - first:
+      213: -9163241027766965539
+    second: Room_Builder_3d_walls_48x48 1_29
+  - first:
+      213: -5802090203374138520
+    second: Room_Builder_3d_walls_48x48 1_30
+  - first:
+      213: 6496083008178315336
+    second: Room_Builder_3d_walls_48x48 1_31
+  - first:
+      213: -5619957685861671574
+    second: Room_Builder_3d_walls_48x48 1_32
+  - first:
+      213: 2301939964970083224
+    second: Room_Builder_3d_walls_48x48 1_33
+  - first:
+      213: -6635996287995427328
+    second: Room_Builder_3d_walls_48x48 1_34
+  - first:
+      213: 4276303187246625746
+    second: Room_Builder_3d_walls_48x48 1_35
+  - first:
+      213: 6304594005361721503
+    second: Room_Builder_3d_walls_48x48 1_36
+  - first:
+      213: 3503709303300899217
+    second: Room_Builder_3d_walls_48x48 1_37
+  - first:
+      213: 1555679953146901363
+    second: Room_Builder_3d_walls_48x48 1_38
+  - first:
+      213: 3451647035412437467
+    second: Room_Builder_3d_walls_48x48 1_39
+  - first:
+      213: -3698548480582950052
+    second: Room_Builder_3d_walls_48x48 1_40
+  - first:
+      213: -6549499892758862783
+    second: Room_Builder_3d_walls_48x48 1_41
+  - first:
+      213: -8908686008671801779
+    second: Room_Builder_3d_walls_48x48 1_42
+  - first:
+      213: 6019288852019178321
+    second: Room_Builder_3d_walls_48x48 1_43
+  - first:
+      213: -7561838483018141
+    second: Room_Builder_3d_walls_48x48 1_44
+  - first:
+      213: 695149475800753248
+    second: Room_Builder_3d_walls_48x48 1_45
+  - first:
+      213: -3148823613085624307
+    second: Room_Builder_3d_walls_48x48 1_46
+  - first:
+      213: 6716077311959231943
+    second: Room_Builder_3d_walls_48x48 1_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0351d74f6adfeda90800000000000000
+      internalID: -7287108253530647248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 265
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e796fbfdb9ecb9bf0800000000000000
+      internalID: -316432179930371714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 265
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4eb6368d4949970800000000000000
+      internalID: 8760790832244319396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 265
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339f05853b97c36e0800000000000000
+      internalID: -1856475135195678413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 265
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e9fd9d1f9afab30800000000000000
+      internalID: 4300843025369636407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 265
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49c63cd9da0ac640800000000000000
+      internalID: 5100901458769267020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 265
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821b4564b2a77e550800000000000000
+      internalID: 6190050539126173992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 265
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d470d33d6d22fb60800000000000000
+      internalID: 7778329453466252500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd6bc3660d789e90800000000000000
+      internalID: -7018722552859365922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 217
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ada9787c67b1d800800000000000000
+      internalID: 635490698941541795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 217
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d914c9869ad44950800000000000000
+      internalID: 6432506507883190736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 217
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5711ea8489a6444c0800000000000000
+      internalID: -4304198141572411019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 217
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa1f2c47dec76ab0800000000000000
+      internalID: -5014812235962311945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 217
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17a04dfbf0854d50800000000000000
+      internalID: 6720919838694352670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 217
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860a9a60430e8a180800000000000000
+      internalID: -9103780132674756504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 217
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a3d0a2a3f81e600800000000000000
+      internalID: 495834913963850393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ba47bd9aabbfaf0800000000000000
+      internalID: -361490106379097299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 169
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6728bb7b743a6d0800000000000000
+      internalID: -2980459673938659605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 169
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5b419c6098375d0800000000000000
+      internalID: -3065956259072789054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 169
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1ccbc4bb6b4c110800000000000000
+      internalID: 1280349109642641904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 169
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3305c5564df46f0800000000000000
+      internalID: -698105885413592067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 169
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eadf01493097c010800000000000000
+      internalID: 1209093600551361253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 169
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec6a536eb851b2b0800000000000000
+      internalID: -5570573689346691871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 169
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd03d20abfab10060800000000000000
+      internalID: 6918016092504666331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26bad33d5e4235b0800000000000000
+      internalID: -5390159641800165841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 121
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8251dbd7cf198e3f0800000000000000
+      internalID: -871286014268861144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 121
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fa3ab952b0ea9a0800000000000000
+      internalID: -6220021779199185095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 121
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47295ecce283ade0800000000000000
+      internalID: -1323069911930951862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 121
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c8f127bc62d8860800000000000000
+      internalID: 7533720406895594553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 121
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda2aac85d0a5d080800000000000000
+      internalID: -9163241027766965539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 121
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b4c1963b5da7fa0800000000000000
+      internalID: -5802090203374138520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 121
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8406be50419b62a50800000000000000
+      internalID: 6496083008178315336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d1d71b246e102b0800000000000000
+      internalID: -5619957685861671574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 73
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8932152b33222ff10800000000000000
+      internalID: 2301939964970083224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 73
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006c83bf88438e3a0800000000000000
+      internalID: -6635996287995427328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 73
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3b4bb871b785b30800000000000000
+      internalID: 4276303187246625746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 73
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9084ae38da6e7750800000000000000
+      internalID: 6304594005361721503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 73
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1914b734c0daf9030800000000000000
+      internalID: 3503709303300899217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 73
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373748fcca2e69510800000000000000
+      internalID: 1555679953146901363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_39
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 73
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9d9cbe0b6b6ef20800000000000000
+      internalID: 3451647035412437467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53ea4ea0cd1cacc0800000000000000
+      internalID: -3698548480582950052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 25
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14426ab5c808b15a0800000000000000
+      internalID: -6549499892758862783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 25
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4eef9d764dfd5480800000000000000
+      internalID: -8908686008671801779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 25
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b6211c15fc88350800000000000000
+      internalID: 6019288852019178321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 25
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eee574c8225eff0800000000000000
+      internalID: -7561838483018141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 25
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06427e2e3caa5a900800000000000000
+      internalID: 695149475800753248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_46
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 25
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d085ba96b912d44d0800000000000000
+      internalID: -3148823613085624307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48 1_47
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 25
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cde36f5bbc443d50800000000000000
+      internalID: 6716077311959231943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

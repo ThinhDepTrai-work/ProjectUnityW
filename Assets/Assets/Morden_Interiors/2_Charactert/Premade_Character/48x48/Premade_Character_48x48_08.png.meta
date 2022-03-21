@@ -1,0 +1,1236 @@
+fileFormatVersion: 2
+guid: bbe616ac110d5ec4c8155d736e3a512f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6997303812011717533
+    second: Character_08_Idle_Right_03
+  - first:
+      213: 1770311628096449557
+    second: Character_08_Idle_Right_02
+  - first:
+      213: 2818432623856307513
+    second: Character_08_Idle_Right_04
+  - first:
+      213: -1345889877540904779
+    second: Character_08_Idle_Right_05
+  - first:
+      213: -1345535190016546736
+    second: Character_08_Idle_Right_06
+  - first:
+      213: 7888736216997950714
+    second: Character_08_Idle_Back_01
+  - first:
+      213: 4489355484640481100
+    second: Character_08_Idle_Back_02
+  - first:
+      213: -4142177097194511161
+    second: Character_08_Idle_Back_03
+  - first:
+      213: 4076431018612992293
+    second: Character_08_Idle_Back_04
+  - first:
+      213: -3332847922830354329
+    second: Character_08_Idle_Back_05
+  - first:
+      213: 8961852911785042901
+    second: Character_08_Idle_Back_06
+  - first:
+      213: -5730502736525068038
+    second: Character_08_Idle_Right_06
+  - first:
+      213: 5619253505109155279
+    second: Character_08_Idle_Left_01
+  - first:
+      213: 1420194211547967941
+    second: Character_08_Idle_Left_02
+  - first:
+      213: -7201915824893415315
+    second: Character_08_Idle_Left_03
+  - first:
+      213: -2764160192002145353
+    second: Character_08_Idle_Left_04
+  - first:
+      213: -5589700369151709278
+    second: Character_08_Idle_Left_05
+  - first:
+      213: 531741866005263968
+    second: Character_08_Idle_Left_06
+  - first:
+      213: -2147580315654849032
+    second: Character_08_Idle_Font_01
+  - first:
+      213: 3638919153723470238
+    second: Character_08_Idle_Font_02
+  - first:
+      213: -8954950834350801748
+    second: Character_08_Idle_Font_03
+  - first:
+      213: 1291948621997748804
+    second: Character_08_Idle_Font_06
+  - first:
+      213: -2295525096379396785
+    second: Character_08_Idle_Font_04
+  - first:
+      213: -5322432417669920567
+    second: Character_08_Idle_Font_05
+  - first:
+      213: -5764888541507774746
+    second: Character_08_Run_Font_01
+  - first:
+      213: 376769324217486410
+    second: Character_08_Run_Font_04
+  - first:
+      213: -7225351537187477292
+    second: Character_08_Run_Font_05
+  - first:
+      213: 1197082668715811809
+    second: Character_08_Run_Font_02
+  - first:
+      213: 7457244593414533620
+    second: Character_08_Run_Font_03
+  - first:
+      213: -7789092670771260807
+    second: Character_08_Run_Font_06
+  - first:
+      213: 376682927962059340
+    second: Character_08_Run_Left_01
+  - first:
+      213: -2654038856750538430
+    second: Character_08_Run_Left_02
+  - first:
+      213: 8946731841805151017
+    second: Character_08_Run_Left_03
+  - first:
+      213: -5683510693382210821
+    second: Character_08_Run_Left_04
+  - first:
+      213: 964677883859550013
+    second: Character_08_Run_Left_05
+  - first:
+      213: -4593159897304766931
+    second: Character_08_Run_Left_06
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character_08_Idle_Right_01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1775
+        width: 43
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7a28cb577d46a70800000000000000
+      internalID: 8819410870972098514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Idle_Right_03
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1775
+        width: 43
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c0e8b914594ee90800000000000000
+      internalID: -6997303812011717533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Idle_Right_02
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1775
+        width: 43
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cae66db09619810800000000000000
+      internalID: 1770311628096449557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Idle_Right_04
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1775
+        width: 43
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dc358e9851d1720800000000000000
+      internalID: 2818432623856307513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Idle_Right_05
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1775
+        width: 43
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b061668940725de0800000000000000
+      internalID: -1345889877540904779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Idle_Back_01
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1775
+        width: 46
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4fbe40bcb6a7d60800000000000000
+      internalID: 7888736216997950714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Idle_Back_02
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1775
+        width: 46
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f827417056d4e30800000000000000
+      internalID: 4489355484640481100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Idle_Back_03
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1775
+        width: 46
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c466f450e70486c0800000000000000
+      internalID: -4142177097194511161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Idle_Back_04
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1775
+        width: 46
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529afcfd964629830800000000000000
+      internalID: 4076431018612992293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Idle_Back_05
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1775
+        width: 46
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7685c4de8785fb1d0800000000000000
+      internalID: -3332847922830354329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Idle_Back_06
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1775
+        width: 46
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d36f38cdb5ee5c70800000000000000
+      internalID: 8961852911785042901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Idle_Right_06
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1775
+        width: 43
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8f4056f1a2970b0800000000000000
+      internalID: -5730502736525068038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Idle_Left_01
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1775
+        width: 43
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd56e27a499bfd40800000000000000
+      internalID: 5619253505109155279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Idle_Left_02
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1775
+        width: 43
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1f1636c1b85b310800000000000000
+      internalID: 1420194211547967941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Idle_Left_03
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1775
+        width: 43
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60b6f2f6b7ad0c90800000000000000
+      internalID: -7201915824893415315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Idle_Left_04
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1775
+        width: 43
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3cf6553fab3a9d0800000000000000
+      internalID: -2764160192002145353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Idle_Left_05
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1775
+        width: 43
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afa7d731256d62b0800000000000000
+      internalID: -5589700369151709278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Idle_Left_06
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1775
+        width: 43
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066727be860216700800000000000000
+      internalID: 531741866005263968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Idle_Font_01
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1775
+        width: 46
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd75cec4134232e0800000000000000
+      internalID: -2147580315654849032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Idle_Font_02
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1775
+        width: 46
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e917d04c0b9008230800000000000000
+      internalID: 3638919153723470238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Idle_Font_03
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1775
+        width: 46
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacbe6959af99b380800000000000000
+      internalID: -8954950834350801748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Idle_Font_06
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1775
+        width: 46
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4423b3a3d6cede110800000000000000
+      internalID: 1291948621997748804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Idle_Font_04
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1775
+        width: 46
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dcf494618a420e0800000000000000
+      internalID: -2295525096379396785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Idle_Font_05
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1775
+        width: 46
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8c2c36aebe226b0800000000000000
+      internalID: -5322432417669920567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Run_Right_01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1680
+        width: 43
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a93c613f1fe886d0800000000000000
+      internalID: -2987875435508123227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Run_Right_02
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1680
+        width: 43
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4fb2d5d49d7e480800000000000000
+      internalID: -8869882014784031539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Run_Right_03
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1680
+        width: 43
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd25920753b6fb40800000000000000
+      internalID: 5473759583402274300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Run_Right_04
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1680
+        width: 43
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3066c24928f5680800000000000000
+      internalID: -8764142776928042068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Run_Right_05
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1680
+        width: 43
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887358468600dfc20800000000000000
+      internalID: 3241747755139676040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Run_Right_06
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1680
+        width: 43
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a4d9a89eb15f9a0800000000000000
+      internalID: -6200018622138725769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Run_Back_01
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1680
+        width: 46
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be3b330df67a8140800000000000000
+      internalID: 4722717988304404153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Run_Back_04
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1680
+        width: 46
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1243e9113ca925090800000000000000
+      internalID: -8047199421552774111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Run_Back_05
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1680
+        width: 46
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904681dcc7e1014c0800000000000000
+      internalID: -4318918521282599927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Run_Back_02
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1680
+        width: 46
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2d4621ba6e97450800000000000000
+      internalID: 6087149993790329544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Run_Back_03
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1680
+        width: 46
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07999b626faf64120800000000000000
+      internalID: 2397879786739964272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Run_Back_06
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1680
+        width: 46
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2085a2913b68ef0800000000000000
+      internalID: -106200620530662723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Run_Font_01
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1680
+        width: 46
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e695b94a600fffa0800000000000000
+      internalID: -5764888541507774746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Run_Font_04
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1680
+        width: 46
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c4f3444bd8a3500800000000000000
+      internalID: 376769324217486410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Run_Font_05
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1680
+        width: 46
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d82e98fe056abb90800000000000000
+      internalID: -7225351537187477292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Run_Font_02
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1680
+        width: 46
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e325934854ec9010800000000000000
+      internalID: 1197082668715811809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Run_Font_03
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1680
+        width: 46
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1fca192747d7760800000000000000
+      internalID: 7457244593414533620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Run_Font_06
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1680
+        width: 46
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972941cfb7597e390800000000000000
+      internalID: -7789092670771260807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Run_Left_01
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1680
+        width: 43
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42f122902f3a3500800000000000000
+      internalID: 376682927962059340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Run_Left_02
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1680
+        width: 43
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241ec43b8b5fa2bd0800000000000000
+      internalID: -2654038856750538430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Run_Left_03
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1680
+        width: 43
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92be873553d292c70800000000000000
+      internalID: 8946731841805151017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Run_Left_04
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1680
+        width: 43
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfab1db032d1021b0800000000000000
+      internalID: -5683510693382210821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Run_Left_05
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1680
+        width: 43
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fbf1e9c69336d00800000000000000
+      internalID: 964677883859550013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_08_Run_Left_06
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1680
+        width: 43
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d266494b861d140c0800000000000000
+      internalID: -4593159897304766931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
